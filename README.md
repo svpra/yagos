@@ -1,2 +1,2 @@
 # yagos
-Yet Another Go Server (my first go http server)
+Yet Another Golang Server (my first go http server)
